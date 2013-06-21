@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$nvm__hal_8c.html#a39b82a565244731577a6bfdc2d0fe321" title="Erase a page in the NVM." alt="" coords="241,5,378,32"/>
+<area shape="rect" id="node7" href="$nvm__hal_8c.html#a2b953c5361692ae60eb662ba86064693" title="Write data to NVM." alt="" coords="255,56,363,83"/>
+<area shape="rect" id="node5" href="$group__NVM.html#gaba5ef1e9c83fcf490d0ac6e45513f597" title="Erase the entire NVM." alt="" coords="427,5,514,32"/>
+<area shape="rect" id="node10" href="$group__NVM.html#ga3731be4b973fb565af60dc9905bfe289" title="Write an object or a page." alt="" coords="427,56,514,83"/>
+</map>
